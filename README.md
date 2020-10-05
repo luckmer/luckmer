@@ -5,4 +5,4 @@ Hi I'm Piotr , I'm from Poland and I use React together with styled-components o
 - 🌱 I’m currently learning: "" 
 - 📫 How to reach me: piotrsebastiangoik@gmail.com
 - 🎁 https://leetcode.com/luckmer/ 
-- 🥼linkedin : linkedin.com/in/piotr-goik-9403a01b7
+- 🥼linkedin : https://www.linkedin.com/in/piotr-goik-9403a01b7/
