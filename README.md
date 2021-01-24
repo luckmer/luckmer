@@ -12,14 +12,14 @@
 
 ```javascript
 const GoodMorning = {
-  code: [Javascript, Typescript, HTML, CSS,Pug],
-  tools: [React, Redux, Node, Styled-Components, Jest, Express],
+  code: [Javascript, Typescript, HTML, CSS, Pug ],
+  tools: [React, Redux, Node, Styled-Components, Jest, Express ],
   About:[
     🔭 I’m currently working on ... Web Development,
     🌱 I’m currently learning ... Backend ,
-    🤔 I’m looking for help with ... Deep learning
+    🤔 I’m looking for help with ... Deep learning😌
  ],
- challenge: "Leetcode each day"
+ challenge: "Leetcode each day 🛠"
 }
 ```
 
