@@ -8,4 +8,4 @@ Hi I'm Piotr , I'm from Poland and I use React together with styled-components o
 - 🥼linkedin : https://www.linkedin.com/in/piotr-goik-9403a01b7/
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luckmer)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luckmer&show_icons=true&theme=onedark)
