@@ -20,7 +20,7 @@
 
 ##
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luckmer&show_icons=true&theme=radical align="center")
+<h1 align ="center">![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luckmer&show_icons=true&theme=radical)</h1>
 
 
 
