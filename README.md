@@ -7,7 +7,6 @@
 
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-goik-9403a01b7/)
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:piotrsebastiangoik@gmail.com)
-[![Leetcode](https://img.shields.io/endpoint?label=%20&style=flat-square)](https://www.leetcode.com/luckmer)
 
 ## **About Me** 😎
 
