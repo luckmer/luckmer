@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckmer&label=Profile%20views&color=0e75b6&style=flat" alt="luckmer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luckmer" alt="luckmer" /></a> </p>
-
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **piotrsebastiangoik@gmail.com**
@@ -23,6 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luckmer&show_icons=true&locale=en&layout=compact" alt="luckmer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luckmer&show_icons=true&locale=en" alt="luckmer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luckmer&" alt="luckmer" /></p>
-
