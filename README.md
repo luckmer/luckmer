@@ -10,9 +10,18 @@
 
 ## **About Me** 😎
 
-- 🔭 I’m currently working on ... <b>Web Development</b>
-- 🌱 I’m currently learning ... <b>Backend</b>
-- 🤔 I’m looking for help with ... <b>Deep learning</b>
+```javascript
+const GoodMorning = {
+  code: [Javascript, Typescript, HTML, CSS,Pug],
+  tools: [React, Redux, Node, Styled-Components, Jest, Express],
+ About:[
+ 🔭 I’m currently working on ... Web Development,
+ 🌱 I’m currently learning ... Backend ,
+ 🤔 I’m looking for help with ... Deep learning
+ ],
+ challenge: "Leetcode each day"
+}
+```
 
 ## 🛠️ **Languages & Tools:**
 
