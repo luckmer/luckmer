@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Piotr Goik🎃</h1>
-<h3 align="center">📦A passionate frontend developer from Poland📦</h3>
+<h1 align="center">Hi 👋, I'm Piotr Goik 🎃</h1>
+<h3 align="center">📦 A passionate frontend developer from Poland 📦</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckmer&label=Profile%20views&color=0e75b6&style=flat" alt="luckmer" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Connect with me: </h3>
 
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-goik-9403a01b7/)
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](piotrsebastiangoik@gmail.com)
@@ -31,6 +31,6 @@ const GoodMorning = {
 
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luckmer&show_icons=true&theme=radical)
 
-
+##
 
 
