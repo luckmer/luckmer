@@ -14,7 +14,7 @@
 
 const GoodMorning = {
   code: [ Javascript, Typescript, Html, Css, Pug , Sass ],
-  tools: [ React, Redux, Node, Styled-Components, Jest, Express, Babel, ],
+  tools: [ React, Redux, Node, Styled-Components, Jest, Express, Babel ],
   About:[
     🔭 I’m currently working on ... Web Development,
     🌱 I’m currently learning ... Backend ,
