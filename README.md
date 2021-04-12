@@ -20,13 +20,12 @@ const GoodMorning = {
     🌱 I’m currently learning ... Backend ,
     🤔 I’m looking for help with ... Deep learning😌
  ],
- challenge:[ Leetcode each day 🛠 ],
+ challenge:[ ⚙ Leetcode each day ⚙  ],
 }
 
 ```
 
-## 🛠️ Languages & Tools ⚙ 
-
+## ⚙  Languages & Tools ⚙ 
 <p align="center" >
   <img   src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white "alt ="1"/>
   <img   src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"alt ="1"/>
@@ -45,9 +44,9 @@ const GoodMorning = {
   <img  src ="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt ="1"/>
   <img  src ="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"alt ="1" />
   </p>
-
-##
-
+  
+ ##
+ 
 <p align ="center">
   <img  src ="https://github-readme-stats.vercel.app/api?username=luckmer&show_icons=true&theme=radical"  />
   <p/>
