@@ -13,7 +13,7 @@
 ```javascript
 
   const GoodMorning = {
-    code: [ " Javascript " , " Typescript " , " Html ", " Css " ," Pug " ," Sass " ],
+    code: [ " Javascript " , " Typescript " , " Html " , " Css " , " Pug " , " Sass " ],
     tools: [ " React " , " Redux " , " Node " , " Styled-Components " , " Jest " , " Express " , " Babel " ],
     About:[
       " 🔭 I’m currently working on ... Web Development ",
