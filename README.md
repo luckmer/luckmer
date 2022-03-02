@@ -49,15 +49,27 @@
   </p>
   
  ##
+
  
 <p align ="center">
   <img  src ="https://github-readme-stats.vercel.app/api?username=luckmer&show_icons=true&theme=radical"  />
+ 
+
   <p/>
+
 
  <h1 align ="center"> 💙 Projects 💙 </h1>
 
 <h1 align="center">
   <a href = "https://piotr-goik.netlify.app/"  >PORTFOLIO</a>
 </h1>
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckmer&layout=compact)](https://github.com/luckmer/github-readme-stats)
+
+
+
+
 
 
