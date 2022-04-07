@@ -48,8 +48,6 @@
   <img  src ="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"alt ="1" />
   </p>
   
- ##
- 
 <p align ="center">
   <img  src ="https://github-readme-stats.vercel.app/api?username=luckmer&show_icons=true&theme=radical"  />
   <p/>
