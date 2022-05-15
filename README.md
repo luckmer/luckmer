@@ -18,7 +18,7 @@
     tools: [ React , Redux , Node , Styled-Components , Jest , Express , Babel ],
     About:[
           🔭I am currently working as a typescript blockchain developer 
-          🌱 I’m currently learning ... Backend,
+          🌱 I’m currently learning ... Backend development,
    ],
    challenge:[  ⚙ Leetcode each day ⚙   ],
   }
