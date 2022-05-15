@@ -14,15 +14,12 @@
 
   const goodMorning = {
     code: [ Javascript , Typescript  , Html , Css , Pug , Sass ],
-    
+    blockchain: [ Solana , Near ],
     tools: [ React , Redux , Node , Styled-Components , Jest , Express , Babel ],
-    
     About:[
-          🔭 I’m currently working on ... Web Development ,
-          🌱 I’m currently learning ... Backend ,
-          🤔 I’m looking for help with ... Deep learning😌
+          🔭I am currently working as a typescript blockchain developer 
+          🌱 I’m currently learning ... Backend,
    ],
-   
    challenge:[  ⚙ Leetcode each day ⚙   ],
   }
 
