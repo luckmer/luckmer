@@ -13,15 +13,17 @@
 ```javascript
 
   const goodMorning = {
-    code: [ Javascript , Typescript  , Html , Css , Pug , Sass ],
-    blockchain: [ Solana , Near ],
-    tools: [ React , Redux , Node , Styled-Components , Jest , Express , Babel ],
+    code: [ Javascript, Typescript, Html, Css, Pug, Sass ],
+    blockchain: [ Solana, Near ],
+    tools: [ React, React native, SolidJ, Redux, Node, Styled-Components, Jest, Express, Babel ],
     About:[
           🔭I am currently working as a typescript blockchain developer 
           🌱 I’m currently learning rust,
    ],
    challenge:[  ⚙ Leetcode each day ⚙   ],
   }
+
+while true; do console.log(goodMorning); sleep 1; done
 
 ```
 
