@@ -14,7 +14,7 @@
 
   const goodMorning = {
     code: [ Javascript, Typescript, Html, Css, Pug, Sass ],
-    blockchain: [ Solana, Near ],
+    blockchain: [ Solana, Near, Aptos, Sui ],
     tools: [ React, React native, SolidJ, Redux, Node, Styled-Components, Jest, Express, Babel ],
     About:[
           🔭I am currently working as a typescript blockchain developer 
