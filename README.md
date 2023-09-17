@@ -17,10 +17,10 @@
     blockchain: [ Solana, Near, Aptos, Sui ],
     tools: [ React, React-Native, SolidJ, Redux, Node, Styled-Components, Jest, Express, Babel ],
     About:[
-          🔭 I'm currently working as a typescript blockchain developer 
-          🌱 I’m currently learning rust,
+          🔭 I'm currently working as a typescript blockchain developer, 
+          🌱 I’m currently learning rust
    ],
-   challenge:[  ⚙ Leetcode each day ⚙   ],
+   challenge:[  ⚙ Leetcode each day ⚙   ]
   }
 
 while true; do console.log(goodMorning); sleep 1; done
