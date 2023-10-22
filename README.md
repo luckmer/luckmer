@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Piotr Goik 🎃</h1>
 <h3 align="center">📦 A passionate frontend developer from Poland 📦</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luckmer&label=Profile%20views&color=0e75b6&style=flat" alt="luckmer" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=luckmer&label=Profile%20views&color=0e75b6&style=flat" alt="luckmer" />
+  <img alt ="codewars" src = "https://www.codewars.com/users/luckmer/badges/micro" />
+</p>
 
 <h3 align="left"> Connect with me: </h3>
 
@@ -12,16 +15,16 @@
 
 ```javascript
 
-  const goodMorning = {
-    code: [ Javascript, Typescript, Html, Css, Pug, Sass ],
-    blockchain: [ Solana, Near, Aptos, Sui ],
-    tools: [ React, React-Native, SolidJ, Redux, Node, Styled-Components, Jest, Express, Babel ],
-    About:[
-          🔭 I'm currently working as a typescript blockchain developer, 
-          🌱 I’m currently learning rust
-   ],
-   challenge:[  ⚙ Leetcode each day ⚙   ]
-  }
+const goodMorning = {
+  code: [Javascript, Typescript, Html, Css, Pug, Sass],
+  blockchain: [Solana, Near, Aptos, Sui],
+  tools: [React, React-Native, SolidJ, Redux, Node, Styled-Components, Jest, Express, Babel],
+  About: [
+    "🔭 I'm currently working as a typescript blockchain developer",
+    "🌱 I’m currently learning rust",
+  ],
+  challenge: ["⚙ Leetcode each day ⚙"],
+};
 
 while true; do console.log(goodMorning); sleep 1; done
 
