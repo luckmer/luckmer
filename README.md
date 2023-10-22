@@ -4,6 +4,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=luckmer&label=Profile%20views&color=0e75b6&style=flat" alt="luckmer" />
   <img alt ="codewars" src = "https://www.codewars.com/users/luckmer/badges/micro" />
+    <img alt ="leetcode" src = "https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fluckmer&logo=leetcode&logoColor=yellow" />
 </p>
 
 <h3 align="left"> Connect with me: </h3>
