@@ -17,9 +17,9 @@
 ```javascript
 
 const goodMorning = {
+  tools: [React, React-Native, SolidJS, Redux, Node, Styled-Components, Jest, Express, Babel, Tailwind, DaisyUI],
   code: [Javascript, Typescript, Html, Css, Pug, Sass],
   blockchain: [Solana, Near, Aptos, Sui],
-  tools: [React, React-Native, SolidJ, Redux, Node, Styled-Components, Jest, Express, Babel],
   About: [
     "🔭 I'm currently working as a typescript blockchain developer",
     "🌱 I’m currently learning rust",
