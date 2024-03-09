@@ -57,9 +57,9 @@ while true; do console.log(goodMorning); sleep 1; done
  
  
  <h1 align ="center"> 💙 Projects 💙 </h1>
-<h1 align="center">
+<!-- <h1 align="center">
   <a href = "https://piotr-goik.netlify.app/"  >PORTFOLIO</a>
-</h1>
+</h1> -->
 
 
 
