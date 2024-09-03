@@ -25,7 +25,7 @@ const goodMorning = {
     "🔭 I'm currently working as a typescript blockchain developer",
     "🌱 I’m currently learning rust",
   ],
-  challenge: [ "⚙ Missing ⚙" ],
+  challenge: [ "⚙ I'm trying to be more productive ⚙" ],
 };
 
 while true; do console.log(goodMorning); sleep 1; done
