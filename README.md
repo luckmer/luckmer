@@ -17,14 +17,15 @@
 ```javascript
 
 const goodMorning = {
-  tools: [React, React-Native, SolidJS, Redux, Node, Styled-Components, Jest, Express, Babel, Tailwind, DaisyUI],
-  code: [Javascript, Typescript, Html, Css, Pug, Sass],
-  blockchain: [Solana, Near, Aptos, Sui],
+  tools: [ React, React-Native, SolidJS, Redux, Node, Styled-Components, Jest, Express, Babel, Tailwind, DaisyUI ],
+  code: [ Javascript, Typescript, Html, Css, Pug, Sass ],
+  blockchain: [ Solana, Near, Aptos, Sui ],
+  hardwareType: [ Ledger ]
   About: [
     "🔭 I'm currently working as a typescript blockchain developer",
     "🌱 I’m currently learning rust",
   ],
-  challenge: ["⚙ Leetcode each day ⚙"],
+  challenge: [ "⚙ Missing ⚙" ],
 };
 
 while true; do console.log(goodMorning); sleep 1; done
