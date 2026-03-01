@@ -18,10 +18,19 @@
 ```javascript
 
 const goodMorning = {
-  tools: [ React, React-Native, SolidJS, Redux, Node, Styled-Components, Jest, Express, Babel, Tailwind, DaisyUI ],
-  code: [ Javascript, Typescript, Html, Css, Pug, Sass ],
-  blockchain: [ Solana, Near, Aptos, Sui ],
-  hardwareType: [ Ledger ]
+  tools: [
+    React, React Native, SolidJS,
+    Redux, Styled Components, DaisyUI, Tailwind,
+    Babel, Jest, Express, Node.js, Ant Design
+  ],
+  code: [
+    TypeScript, JavaScript,
+    Html, Css, Sass, Pug
+  ],
+  blockchain: {
+    chains:   [ Solana, Near, Aptos, Sui ],
+    hardware: [ Ledger, Keystone, Trezor ],
+  },
   About: [
     "🔭 I'm currently working as a typescript blockchain developer",
     "🌱 I’m currently learning rust",
@@ -30,7 +39,6 @@ const goodMorning = {
 };
 
 while true; do console.log(goodMorning); sleep 1; done
-
 ```
 
 ## ⚙  Languages & Tools ⚙ 
@@ -53,10 +61,6 @@ while true; do console.log(goodMorning); sleep 1; done
   <img  src ="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"alt ="1" />
   </p>
   
-<p align ="center">
-  <img  src ="https://github-readme-stats.vercel.app/api?username=luckmer&show_icons=true&theme=radical"  />
-  <p/>
- 
  
  <h1 align ="center"> 💙 Projects 💙 </h1>
 <!-- <h1 align="center">
