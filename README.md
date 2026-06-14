@@ -19,13 +19,16 @@
 
 const goodMorning = {
   tools: [
-    React, React Native, SolidJS,
-    Redux, Styled Components, DaisyUI, Tailwind,
-    Babel, Jest, Express, Node.js, Ant Design
+    React, React Native, SolidJS, Tauri v2,
+    Redux, Redux Toolkit, Redux Saga,
+    React Hook Form, Modular Forms,
+    Styled Components, DaisyUI, Tailwind, Ant Design, Shadcn,
+    Babel, Jest, Playwright, Vitest,
+    Express, Node.js, WebSockets
   ],
   code: [
     TypeScript, JavaScript,
-    Html, Css, Sass, Pug
+    Html, Css, Sass, Pug,
   ],
   blockchain: {
     chains:   [ Solana, Near, Aptos, Sui ],
@@ -33,11 +36,10 @@ const goodMorning = {
   },
   About: [
     "🔭 I'm currently working as a typescript blockchain developer",
-    "🌱 I’m currently learning rust",
+    "🌱 I'm currently learning rust",
   ],
   challenge: [ "⚙ I'm trying to be more productive ⚙" ],
 };
-
 while true; do console.log(goodMorning); sleep 1; done
 ```
 
