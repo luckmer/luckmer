@@ -39,7 +39,7 @@ const goodMorning = {
   },
   About: [
     "🔭 I'm currently working as a typescript blockchain developer",
-    "🌱 I'm currently learning rust",
+    "🌱 I'm currently learning py",
   ],
   challenge: [ "⚙ I'm trying to be more productive ⚙" ],
 };
